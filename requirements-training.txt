@@ -1,0 +1,8 @@
+# Training dependencies for SCA model
+transformers==4.37.0
+datasets==2.16.0
+peft==0.8.0
+bitsandbytes==0.42.0
+accelerate==0.26.0
+sentencepiece
+torch>=2.0.0
