@@ -1,0 +1,13 @@
+# GCP Configuration for AI Security Training
+# Generated on Fri Jan 23 17:55:56 UTC 2026
+
+PROJECT_ID="smooth-splicer-485120-d7"
+PROJECT_NAME="appRISK"
+PROJECT_NUMBER="514548319751"
+BUCKET_NAME="smooth-splicer-485120-d7-ml-data"
+REGION="us-central1"
+
+# Quick commands:
+# Set project: gcloud config set project smooth-splicer-485120-d7
+# List buckets: gsutil ls
+# Training: ./submit_vertex_training.sh smooth-splicer-485120-d7
